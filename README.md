@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Deep%20Dive!&fontSize=80&desc=Hyeongtaek%20Oh,%20Backend%20Developer&descSize=20&descAlign=80&descAlignY=70)
 
 ### Contacts
-📧E-mail✉️: oh052679@gmail.com
+📧E-mail✉️: <oh052679@gmail.com>
 
-#### 알고 쓰는 코드를 지향하고, 반복과 몰입의 힘을 아는 백엔드 개발자 오형택입니다
+#### 반복과 몰입의 힘을 믿는 백엔드 개발자 오형택입니다
 
 
 ### 👨‍💻 Tech Stack 👨‍💻
@@ -29,9 +29,23 @@
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 
+#### Experience & Studying
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+<img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+
+#### Collaboration Tool
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
 ### Algorithm
+[Samsung Electronics] SW Certificate - **Professional**
+<br/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oh052679)](https://solved.ac/profile/oh052679)
+<br/>
+
 
 ### GitHub
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeongtaekOh&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
