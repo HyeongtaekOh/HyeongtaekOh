@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 ### Algorithm
-[Samsung Electronics] SW Certificate - **Professional**
+[ Samsung Electronics ] SW Capacity Test - **Level B**
 <br/>
 
 [![Solved.ac
