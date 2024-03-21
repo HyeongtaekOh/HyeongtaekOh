@@ -4,6 +4,8 @@
 
 ### Contacts
 📧E-mail✉️: <oh052679@gmail.com>
+<br/>
+👨‍💻Tech Blog👨‍💻: [Velog](https://velog.io/@oh052679)       
 
 #### 반복과 몰입의 힘을 믿는 백엔드 개발자 오형택입니다
 
